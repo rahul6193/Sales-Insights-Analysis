@@ -41,6 +41,6 @@
 
 
 
-## Technologies Used
+## Tools Used
 ![PBI,MYSQL](https://user-images.githubusercontent.com/71078584/229343573-c83e933a-461d-47d3-b69c-e79a82855db6.jpg)
 
